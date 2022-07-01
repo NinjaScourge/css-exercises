@@ -1,0 +1,21 @@
+/* Styles for exercise */
+
+.Odd_numbered_class {
+background-color: rgb(200,90,125);
+font-family: Verdana,DejaVu Sans,sans-serif;
+}
+
+#Div_id_01 {
+    color: rgb(0,30,150);
+    font-size: 36px;
+}
+
+#Div_id_02 {
+    background-color: rgb(90,238,50);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#Number3 {
+    font-size: 24px;
+}
