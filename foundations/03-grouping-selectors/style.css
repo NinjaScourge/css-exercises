@@ -1,0 +1,14 @@
+.Button_A {
+background-color: rgb(0, 0, 0);
+color: rgb(255,255,255);
+}
+
+.Button_B {
+background-color: rgb(255,255,0);
+color: rgb(0, 0, 0);
+}
+
+.Button_A,.Button_B {
+font-size: 28px;
+font-family: Helvetica,'Times New Roman',sans-serif;
+}
